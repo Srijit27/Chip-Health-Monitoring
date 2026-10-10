@@ -1,6 +1,6 @@
 from dataset_builder import build_dataset
 
-bench_file = r"E:\\Projects\\ChipHealthAnalysis\\i99t\\b01\\b01_C.bench"
+bench_file = r"D:\Srijit\Development\Chip-Health-Monitoring\i99t\b01\b01_C.bench" #dataset path in Srijit's machine
 
 df = build_dataset(bench_file)
 

@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from dataset_builder import build_path_dataset
 
-DATASET_PATH = r"E:\Projects\ChipHealthAnalysis\i99t"
+DATASET_PATH = r"D:\Srijit\Development\Chip-Health-Monitoring\i99t" #dataset path in Srijit's machine
 
 CIRCUITS = ["b01", "b02", "b03", "b06", "b08", "b09", "b10"]
 
